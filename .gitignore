@@ -1,0 +1,27 @@
+# Временные файлы Word/Office
+*.doc
+*.docx
+*.tmp
+.~*
+~$*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Oracle
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
